@@ -26,24 +26,26 @@ I also scheduled a meeting with someone in access services for next week as reco
 
 ### Week 5 Reflections
 
-Hannah meeting 
+I had a meeting with Hannah from Access Services this week, and as expected the meeting was extremely helpful. My main takeaways are that while UW has emergency preparedness policies as a system, there is nothing localized to Tacoma and there is currently no physical plan. She said that the new spaces aren't too concerning since they were all designed for library use, but that the 4th floor is a bit flimsy and earthquake preparedness generally is very much needed. She recommended that I also talk to Stanley in facilities as he is very much interested in how climate change will effect facility maintenance, and I set up a meeting to do so next week.
 
 ### Week 6 Reflections
 
-Stanley meeting
+My talk with Stanley was rather short, but turned out to be one of the most informative things I've done all quarter. From him I learned that our HVAC system currently is designed to deal with a maximum temperature of around 85-95 degrees, and if temperatures go above that we need to dial back and allow the room temperature to go up to around 75 degrees. Fires and a lack of fresh water are a big concern climate-wise, and fires are especially worrying given the fact that poor air quality forces closing off outside air, increasing the risk of COVID for those inside the building. I really appreciated him tying in how COVID relates to all of this, as I feel it's often left out of the conversation despite it still being a real, major issue. 
+
+On the bright side, floors and spaes can be isolated by the VRF system, and the library as a whole is considered a critical location with an isolated system on campus. This information gives me the last pieces of information I really needed to understand how to approach Tacoma's specific needs.
 
 ### Week 7 Reflections
 
-Slowing down
+This turned out to be an incredibly difficult week for me, so I mostly took time for myself and seeking out support. I hope to get back to readings next week.
 
 ### Week 8 Reflections
 
-Reading and rest
+Things really don't stop happening. I'm working through readings as much as I can, but struggling to process or retain information. I spoke to my supervisors and they agreed that I need to rest more and go easier on myself, but I tend to struggle with this. I think they're right though -- I don't have to stop working on this once my DFW is over, so why rush it when I so clearly need rest? To get really corny, I've realized that I know how to write plans and policies for objects, but caring for my own needs and longevity in this field is so much harder. So I'm trying to take the advice I've gotten with the hope as always that next week will be better.
 
 ### Week 9 Reflections
 
-Work on annotated bibliography
+I finally got a bit of work done on my annotated bibliography. It's just bullet points right now, but it's something and it's useable. I can't say I'm proud of the work itself as it stands right now, but I'm proud that I communicated my struggles and got support, I took the rest I needed to avoid getting too burnt out to even get this far, and I met at least a small milestone. I plan to clean it up still, but at least the content is now there.
 
 ### Week 10 Reflections
 
-Looking back
+This quarter turned out to be one of the most difficult periods of my entire education due to personal matters, but I'm proud I could still do a little bit to help an institution I care about. I wasn't able to meet my original (admittedly lofty) goals entirely, but I plan to continue work on this project throughout the summer so that I can hopefully still meet them at a pace that makes more sense for my mental and emotional state right now. It's good to remember that the tight deadlines required by university programs don't always exist in the workplace, and I'm greatful to my supervisors for being so flexible and understanding. This is it for my reflections this quarter, but my work continues.
