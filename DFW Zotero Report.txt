@@ -1,0 +1,208 @@
+  *
+
+
+        Climate change impacts on cultural heritage: A literature review
+
+    Type 	Journal Article
+    Author 	Elena Sesana
+    Author 	Alexandre S. Gagnon
+    Author 	Chiara Ciantelli
+    Author 	JoAnn Cassar
+    Author 	John J. Hughes
+    Date 	2021
+    Language 	en
+    Short Title 	Climate change impacts on cultural heritage
+    Library Catalog 	Wiley Online Library
+    URL 	https://onlinelibrary.wiley.com/doi/abs/10.1002/wcc.710
+    Extra 	_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcc.710
+    Volume 	12
+    Pages 	e710
+    Publication 	WIREs Climate Change
+    DOI 	10.1002/wcc.710 <http://doi.org/10.1002/wcc.710>
+    Issue 	4
+    ISSN 	1757-7799
+    Date Added 	5/5/2022, 12:56:52 PM
+    Modified 	6/17/2022, 8:10:55 AM
+
+
+          Tags:
+
+      o climate change
+      o impacts
+      o natural hazards
+      o risks
+      o tangible cultural heritage
+
+
+          Notes:
+
+      o
+          + Thoroughly discusses what exactly climate change does to
+            cultural heritage (namely, all objects undergo cycles of
+            environmental change, but climate change alters the
+            frequency and intensity of these changes)
+          + Identifies factors involved in evaluating the threats caused
+            by climate change, as well as a strong framework for
+            assessing these risks in an institution’s collection.
+          + Identifies types of environmental change and literature
+            discussing where these changes have been noted.
+          + Overall, an extremely rich, thorough survey of current
+            literature at the intersection of climate change research
+            and collection care.
+
+
+          Attachments
+
+      o Full Text PDF
+      o Snapshot
+  *
+
+
+        COSTEP: Coordinated Statewide Emergency Preparedness: An
+        Emergency Management Framework for Cultural Resources
+
+    Type 	Report
+    Date 	2009
+    URL
+    https://www.nedcc.org/assets/media/documents/COSTEP_framework_1.pdf
+    Institution 	NEDCC
+    Date Added 	6/17/2022, 8:01:38 AM
+    Modified 	6/17/2022, 8:02:36 AM
+
+
+          Notes:
+
+      o
+          + Provides an incredibly thorough, step-by-step guide for
+            emergency planning using the COSTEP framework.
+          + Includes action checklists, important resources, and
+            practical as well as administrative advice.
+  *
+
+
+        Disaster Response for Library Collections
+
+    Type 	Web Page
+    Date 	2018
+    URL 	https://www.lib.washington.edu/preservation/disaster
+    Website Title 	UW Libraries
+    Date Added 	5/5/2022, 12:50:00 PM
+    Modified 	6/17/2022, 8:11:01 AM
+
+
+          Notes:
+
+      o
+          + The current disaster response plan for all libraries in the
+            UW system.
+          + Provides good guidance for dealing with various threats to
+            collections, including contact information for emergency
+            services and other help.
+          + Lays out specific University policies for how to handle
+            various situations.
+          + Lacks specialized advice for the different campuses -- the
+            document is very generalized beyond the inclusion of
+            University resources and policies.
+
+
+          Attachments
+
+      o Disaster Response for Library Collections — UW Libraries
+  *
+
+
+        Flood Recovery Booklet
+
+    Type 	Web Page
+    URL 	http://hosted.lib.uiowa.edu/flood/contents.html
+    Website Title 	ICPC
+    Date Added 	5/5/2022, 12:54:36 PM
+    Modified 	6/17/2022, 8:10:58 AM
+
+
+          Notes:
+
+      o
+          + Interviews with staff indicated that dealing with wet
+            materials is a frequent concern. This resource responds to
+            that.
+          + Offers practical steps and advice for drying and caring for
+            water-damaged materials.
+          + Offers guidance regarding emergency stabilization of
+            materials as well as preventing mold.
+
+
+          Attachments
+
+      o Flood Recovery Booklet - ICPC
+  *
+
+
+        Impact of climate change in cultural heritage: from energy
+        consumption to artefacts’ conservation and building rehabilitation
+
+    Type 	Journal Article
+    Abstract 	Historic artefacts must be properly preserved if they are
+    to be transmitted to future generations. Indeed, several
+    methodologies and guidelines that a…
+    Date 	2020/10/01
+    Language 	en
+    Short Title 	Impact of climate change in cultural heritage
+    Library Catalog 	www-sciencedirect-com.offcampus.lib.washington.edu
+    URL
+    https://www-sciencedirect-com.offcampus.lib.washington.edu/science/article/pii/S0378778820306629
+
+    Extra 	Publisher: Elsevier
+    Volume 	224
+    Pages 	110250
+    Publication 	Energy and Buildings
+    DOI 	10.1016/j.enbuild.2020.110250
+    <http://doi.org/10.1016/j.enbuild.2020.110250>
+    ISSN 	0378-7788
+    Date Added 	5/5/2022, 12:48:57 PM
+    Modified 	6/17/2022, 8:11:04 AM
+
+
+          Notes:
+
+      o
+          + A scientific article meant to address biological, chemical
+            and mechanical decay as caused by indoor air conditions.
+          + Addresses the dilemma posed by HVAC: it both consumes a
+            great deal of energy while being essential for keeping
+            materials safe from air pollutants, humidity, and high
+            temperatures.
+
+
+          Attachments
+
+      o Snapshot
+  *
+
+
+        LibGuides: Library Disaster Preparedness & Response: Disaster
+        Preparedness
+
+    Type 	Web Page
+    Author 	A. L. A. Library
+    Language 	en
+    Short Title 	LibGuides
+    URL 	https://libguides.ala.org/disaster/preparedness
+    Rights 	Copyright American Library Association 2022
+    Date Added 	6/17/2022, 8:06:16 AM
+    Modified 	6/17/2022, 8:10:38 AM
+
+
+          Notes:
+
+      o
+          + Toolkit for disaster preparedness and response compiled by
+            the ALA
+          + Includes templates, frameworks, resources, research, and
+            practical advice for collection care in the wake of a disaster.
+
+
+          Attachments
+
+      o Snapshot
+
